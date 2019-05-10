@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/yanqun/git2019.git #登录时输入用户名和密码
+          uri: https://github.com/yanqun/myproject2019.git #登录时输入用户名和密码
 #          uri: git@github.com:yanqun/project_config.git
 #          skipSslValidation: true
 

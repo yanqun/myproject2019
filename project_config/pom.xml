@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>project_config</artifactId>
+    <artifactId>project_config2</artifactId>
 
     <dependencies>
         <dependency>
